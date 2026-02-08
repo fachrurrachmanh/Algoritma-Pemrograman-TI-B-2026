@@ -7,4 +7,4 @@ def rata_rata(nilai):
         return rata
     
 list = [80, 75, 90, 60, 85]
-print(rata_rata(list))
+print(f"hasil rata-rata ialah {rata_rata(list)}")

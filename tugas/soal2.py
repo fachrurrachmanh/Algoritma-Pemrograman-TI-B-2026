@@ -13,4 +13,4 @@ def bilangan_prima(n):
 
     return hasil
 
-print(bilangan_prima(50))
+print(f"bilangan prima hingga n = 50 ialah {bilangan_prima(50)}")
